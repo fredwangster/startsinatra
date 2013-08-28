@@ -1,0 +1,11 @@
+vendor/*
+.bundle/*
+Gemfile.lock
+*.db
+*.sqlite3
+*.swp
+*.swo
+*.ds_store
+
+
+
